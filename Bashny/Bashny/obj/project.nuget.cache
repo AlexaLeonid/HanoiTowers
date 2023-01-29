@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "stJubiOYZK1slF2/e0lhqxytyFLZrlMsHmFByz/C0XOgcyD7VFf9/jkgoSDDrOu5msgH8pAzGjX62C8uOeoGVA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sasacompik\\OneDrive\\Рабочий стол\\Алгоритм и анализ сложности\\Bashny\\Bashny\\Bashny.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sasacompik\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512",
+    "C:\\Users\\Sasacompik\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Sasacompik\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Sasacompik\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

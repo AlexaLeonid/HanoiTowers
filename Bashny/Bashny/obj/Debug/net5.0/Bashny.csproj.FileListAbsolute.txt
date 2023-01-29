@@ -1,0 +1,32 @@
+C:\Users\Sasacompik\OneDrive\Рабочий стол\Программирование\Bashny\Bashny\bin\Debug\net5.0\Bashny.exe
+C:\Users\Sasacompik\OneDrive\Рабочий стол\Программирование\Bashny\Bashny\bin\Debug\net5.0\Bashny.deps.json
+C:\Users\Sasacompik\OneDrive\Рабочий стол\Программирование\Bashny\Bashny\bin\Debug\net5.0\Bashny.runtimeconfig.json
+C:\Users\Sasacompik\OneDrive\Рабочий стол\Программирование\Bashny\Bashny\bin\Debug\net5.0\Bashny.runtimeconfig.dev.json
+C:\Users\Sasacompik\OneDrive\Рабочий стол\Программирование\Bashny\Bashny\bin\Debug\net5.0\Bashny.dll
+C:\Users\Sasacompik\OneDrive\Рабочий стол\Программирование\Bashny\Bashny\bin\Debug\net5.0\ref\Bashny.dll
+C:\Users\Sasacompik\OneDrive\Рабочий стол\Программирование\Bashny\Bashny\bin\Debug\net5.0\Bashny.pdb
+C:\Users\Sasacompik\OneDrive\Рабочий стол\Программирование\Bashny\Bashny\obj\Debug\net5.0\Bashny.csproj.AssemblyReference.cache
+C:\Users\Sasacompik\OneDrive\Рабочий стол\Программирование\Bashny\Bashny\obj\Debug\net5.0\Bashny.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sasacompik\OneDrive\Рабочий стол\Программирование\Bashny\Bashny\obj\Debug\net5.0\Bashny.AssemblyInfoInputs.cache
+C:\Users\Sasacompik\OneDrive\Рабочий стол\Программирование\Bashny\Bashny\obj\Debug\net5.0\Bashny.AssemblyInfo.cs
+C:\Users\Sasacompik\OneDrive\Рабочий стол\Программирование\Bashny\Bashny\obj\Debug\net5.0\Bashny.csproj.CoreCompileInputs.cache
+C:\Users\Sasacompik\OneDrive\Рабочий стол\Программирование\Bashny\Bashny\obj\Debug\net5.0\Bashny.dll
+C:\Users\Sasacompik\OneDrive\Рабочий стол\Программирование\Bashny\Bashny\obj\Debug\net5.0\ref\Bashny.dll
+C:\Users\Sasacompik\OneDrive\Рабочий стол\Программирование\Bashny\Bashny\obj\Debug\net5.0\Bashny.pdb
+C:\Users\Sasacompik\OneDrive\Рабочий стол\Программирование\Bashny\Bashny\obj\Debug\net5.0\Bashny.genruntimeconfig.cache
+C:\Users\Sasacompik\OneDrive\Рабочий стол\Алгоритм и анализ сложности\Bashny\Bashny\bin\Debug\net5.0\Bashny.exe
+C:\Users\Sasacompik\OneDrive\Рабочий стол\Алгоритм и анализ сложности\Bashny\Bashny\bin\Debug\net5.0\Bashny.deps.json
+C:\Users\Sasacompik\OneDrive\Рабочий стол\Алгоритм и анализ сложности\Bashny\Bashny\bin\Debug\net5.0\Bashny.runtimeconfig.json
+C:\Users\Sasacompik\OneDrive\Рабочий стол\Алгоритм и анализ сложности\Bashny\Bashny\bin\Debug\net5.0\Bashny.runtimeconfig.dev.json
+C:\Users\Sasacompik\OneDrive\Рабочий стол\Алгоритм и анализ сложности\Bashny\Bashny\bin\Debug\net5.0\Bashny.dll
+C:\Users\Sasacompik\OneDrive\Рабочий стол\Алгоритм и анализ сложности\Bashny\Bashny\bin\Debug\net5.0\ref\Bashny.dll
+C:\Users\Sasacompik\OneDrive\Рабочий стол\Алгоритм и анализ сложности\Bashny\Bashny\bin\Debug\net5.0\Bashny.pdb
+C:\Users\Sasacompik\OneDrive\Рабочий стол\Алгоритм и анализ сложности\Bashny\Bashny\obj\Debug\net5.0\Bashny.csproj.AssemblyReference.cache
+C:\Users\Sasacompik\OneDrive\Рабочий стол\Алгоритм и анализ сложности\Bashny\Bashny\obj\Debug\net5.0\Bashny.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sasacompik\OneDrive\Рабочий стол\Алгоритм и анализ сложности\Bashny\Bashny\obj\Debug\net5.0\Bashny.AssemblyInfoInputs.cache
+C:\Users\Sasacompik\OneDrive\Рабочий стол\Алгоритм и анализ сложности\Bashny\Bashny\obj\Debug\net5.0\Bashny.AssemblyInfo.cs
+C:\Users\Sasacompik\OneDrive\Рабочий стол\Алгоритм и анализ сложности\Bashny\Bashny\obj\Debug\net5.0\Bashny.csproj.CoreCompileInputs.cache
+C:\Users\Sasacompik\OneDrive\Рабочий стол\Алгоритм и анализ сложности\Bashny\Bashny\obj\Debug\net5.0\Bashny.dll
+C:\Users\Sasacompik\OneDrive\Рабочий стол\Алгоритм и анализ сложности\Bashny\Bashny\obj\Debug\net5.0\ref\Bashny.dll
+C:\Users\Sasacompik\OneDrive\Рабочий стол\Алгоритм и анализ сложности\Bashny\Bashny\obj\Debug\net5.0\Bashny.pdb
+C:\Users\Sasacompik\OneDrive\Рабочий стол\Алгоритм и анализ сложности\Bashny\Bashny\obj\Debug\net5.0\Bashny.genruntimeconfig.cache
